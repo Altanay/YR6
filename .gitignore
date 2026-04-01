@@ -1,0 +1,14 @@
+
+cat > .gitignore << 'EOF'
+__pycache__/
+*.pyc
+out.json
+*.log
+.env
+venv/
+.venv/
+EOF
+[C[A[C[C[C[C[3~[3~[3~[3~[3~[3~[C[C[C[C[A[C[C[A[C[C[A[A[C[C[C[C[C[[A[C[C[C[[C[A[C[C[C[C[C[C[C[C[C[C[C[C[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[B[B[B[B[C[C[C[A[A[A[A[A[C[A[C[C[C[C[C[C[C[C[C[C[C[A[
+
+
+git add .
